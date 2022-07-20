@@ -4,7 +4,7 @@
 </head>
 <body>
 <?php
-$objConnect = mysqli_connect("127.0.0.1","root","1234","Pokemon",3306) or die("Error Connect to Database");
+$objConnect = mysqli_connect("localhost","my_user","my_password","my_db",port) or die("Error Connect to Database");
 $objDB = mysqli_select_db($objConnect,"Pokemon"); #
 #extra
 #if(isset($_POST['submit']) == 1) {
