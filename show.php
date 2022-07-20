@@ -127,6 +127,3 @@ function to_image($type) {
     echo "<td style='text-align:center;'>" . "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Pokémon_Dragon_Type_Icon.svg/1200px-Pokémon_Dragon_Type_Icon.svg.png' width='30' height='30' border='0' />" . "</td>";   
 }
 ?>
-
-
-
