@@ -42,4 +42,3 @@ mysqli_close($objConnect);
 ?>
 </body>
 </html>
-
